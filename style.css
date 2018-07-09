@@ -18,18 +18,19 @@ html {
     margin: 0;
 }
 
-.img-fluid{
-    max-width: 100%;
-}
-
-.main-title {
+.main-row .item {
     position: relative;
-    top: 32%;
+    top: 30%;
+    height: 5rem;
     z-index: 99;
 }
 
 .find-more-btn {
-    border-radius: 300px
+    border-radius: 300px;
+}
+
+.img-fluid{
+    max-width: 100%;
 }
 
 .find-more-btn:hover{
