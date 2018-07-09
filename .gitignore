@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+/old-backup
+/reference-keep
+/old-files
+/old-bootstrap-v4alpha
+.idea
+.vscode
+.DS_Store
+.env
+.idea
+*.zip
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
